@@ -18,4 +18,6 @@ Accuracy has only a weak impact (~10%) on user comfort.
 python analysis.py
 streamlit run app.py
 
-
+Use this to view the dashboard
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.15:8501
